@@ -1,6 +1,9 @@
-seaplusplus
+WarmUps
 ===========
 Getting back into C++... been a while...
+
+He's on fire
+http://gamerlimit.com/files/2010/01/NBAJamWii-Header.jpg
 
 Based on:
 http://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/
